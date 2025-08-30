@@ -33,3 +33,36 @@ The wireframe provided in the reference example is a **low-fidelity wireframe**,
 - It uses simple grey boxes and shapes to represent UI elements like images and videos.
 - Focuses on layout and structure rather than colors, branding, or detailed graphics.
 - Serves as a blueprint to communicate functionality and positioning without exact design details.
+
+
+
+## Wireframing Tools
+
+Wireframing tools are software applications that help designers create wireframes efficiently, allowing for easy iteration, collaboration, and sharing. They range from simple drawing tools to advanced UI/UX design platforms.
+
+### Popular Wireframing Tools
+- **Figma**
+  - Browser-based design tool with real-time collaboration.
+  - Allows creation of both low-fidelity and high-fidelity wireframes.
+  - Features reusable components, vector editing, prototyping, and commenting for team feedback.
+  - Ideal for collaborative design processes where multiple stakeholders need access to the latest wireframes.
+- **Adobe XD**
+  - Offers wireframing, prototyping, and animation features.
+  - Supports integration with other Adobe Creative Cloud apps.
+- **Balsamiq**
+  - Focuses on low-fidelity, sketch-style wireframes.
+  - Easy to use for quick layouts and early-stage ideas.
+- **Sketch**
+  - Popular among Mac users.
+  - Offers vector editing, reusable components, and plugins for wireframing and UI design.
+- **Axure RP**
+  - Advanced wireframing and prototyping tool.
+  - Supports dynamic content, interactions, and conditional logic for interactive wireframes.
+
+### Why Figma is Recommended
+Figma is highly recommended for wireframing due to its:
+- Accessibility (works on any device via browser).
+- Real-time collaboration with team members.
+- Ability to easily switch between low-fidelity and high-fidelity designs.
+- Integrated commenting system for feedback and review.
+- Seamless handoff to developers with accurate design specifications.
