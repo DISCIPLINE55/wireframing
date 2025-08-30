@@ -93,3 +93,30 @@ Wireframing is a crucial step in the software development lifecycle as it provid
   - Example: Testing a low-fidelity booking page to ensure users can easily navigate between hotel listings, details, and booking steps.
 
 Overall, wireframes serve as a communication tool and guide the design process, ensuring alignment among team members and stakeholders before moving into high-fidelity design and development.
+
+
+## Wireframing in Practice
+
+**Real-World Scenario: Hotel Booking Application**
+
+During the design of a hotel booking system similar to Airbnb or Booking.com, the team created low-fidelity wireframes to map out the search, booking, and checkout flows. Early usability testing with these wireframes revealed several potential issues:
+
+- **Issue 1: Confusing Search Filters**
+  - Users struggled to locate filters for price range, amenities, and ratings.
+  - **Resolution:** The team reorganized the filter panel, added clear labels, and prioritized the most-used filters at the top of the panel.
+
+- **Issue 2: Booking Confirmation Uncertainty**
+  - Users were unsure if their booking was successful after completing the checkout process.
+  - **Resolution:** A clear confirmation screen with booking details and a prominent confirmation message was added to the wireframe, ensuring clarity before development.
+
+- **Issue 3: Navigation Between Steps**
+  - Users had difficulty moving back and forth between hotel selection, room details, and checkout.
+  - **Resolution:** Navigation buttons and breadcrumb trails were incorporated into the wireframe, improving flow and user orientation.
+
+**Impact on the Final Product:**
+
+By addressing these issues at the wireframing stage, the team minimized costly changes during development. The final product featured intuitive navigation, clear instructions, and an organized layout, resulting in a user-friendly booking experience.
+
+**Conclusion:**
+
+Wireframing plays a vital role in software development by identifying usability problems early, enabling rapid iteration, and aligning the team on design decisions. It ensures that the final product is intuitive, efficient, and meets user needs, saving time and resources while enhancing overall user satisfaction.
